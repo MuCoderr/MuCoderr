@@ -2,7 +2,7 @@
 <h3 align="center">I am developing myself in the field of coding and software.</h3>
 
 # 💫 About Me:
-- 🔭 Şu anda **ResumeM** üzerinde çalışıyorum.<br>- 🌱 Gelişmek için projeler üretiyorum.
+- 🔭 Şu anda **EntegreM** üzerinde çalışıyorum.<br>- 🌱 Gelişmek için projeler üretiyorum.
 
 
 ## 🌐 Socials:
